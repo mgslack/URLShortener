@@ -47,7 +47,7 @@ namespace URLShortener
             }
             else
             {
-                MessageBox.Show("URLs provide must start with http:// or https://");
+                MessageBox.Show("URLs entered must start with http:// or https://");
             }
         }
 
